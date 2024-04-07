@@ -29,6 +29,10 @@ background-color: black;
     text-align: center;
     margin: 10px;
 }
- #p_1 {
+ #footer {
     color: white;
+    font-size: 1rem;
+    font-family: "Licorice", cursive;
+    font-weight: 400;
+    font-style: normal;
  }
